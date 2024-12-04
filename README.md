@@ -30,3 +30,8 @@ This project aims to automate the process of road quality assessment using compu
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RoadScanSolutionsTeam&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+**Contact Us:**  
+- Email: [RoadScan Solutions Team](mailto:roadscansolution.team8@gmail.com)
+
+Thank you for visiting us! Let's develop technology with us.
