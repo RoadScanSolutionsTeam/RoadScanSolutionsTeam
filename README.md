@@ -12,8 +12,6 @@ This project aims to automate the process of road quality assessment using compu
 * **Python 🐍:** Our primary programming language.
 * **Ultralytics YOLO 🚀:**  Powerful object detection framework for accurate and efficient defect identification.
 * **Tkinter 🖥️:**  Used for creating the user-friendly graphical user interface (GUI).
-* **[Add other libraries here] 📚:**  List any other relevant libraries used (e.g., OpenCV, NumPy, Pandas).
-
 
 **Project Status:**  [In Development and to be completed]
 
