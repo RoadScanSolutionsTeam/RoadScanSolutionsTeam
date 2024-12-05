@@ -24,12 +24,12 @@ This project aims to automate the process of road quality assessment using compu
 
 <p align="left">
 <a href="https://github.com/RoadScanSolutionsTeam">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RoadScanSolutionsTeam&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RoadScanSolutionsTeam&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RoadScan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RoadScan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 **Contact Us:**  
-- Email: [RoadScan Solutions Team](mailto:roadscansolution.team8@gmail.com)
+Email: [RoadScan Solutions Team](mailto:roadscansolution.team8@gmail.com)
 
 Thank you for visiting us! Let's develop technology with us.
