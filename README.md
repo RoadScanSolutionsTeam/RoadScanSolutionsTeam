@@ -23,9 +23,9 @@ This project aims to automate the process of road quality assessment using compu
 [![Tkinter](https://img.shields.io/badge/tkinter-blue?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/library/tk.html)
 
 <p align="left">
-<a href="https://github.com/RoadScanSolutionsTeam/RoadScan">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RoadScan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RoadScan&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/RoadScanSolutionsTeam">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RoadScanSolutionsTeam &show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RoadScanSolutionsTeam &layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
