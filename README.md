@@ -2,7 +2,7 @@
 
 Welcome to the GitHub profile of RoadScan Solutions Team! We are dedicated to developing innovative solutions for improving road infrastructure. Our flagship project, **AI-Driven Road Quality Detection for Accessibility and Safety**, utilizes cutting-edge AI technology to assess and improve road conditions.
 
-## AI-Driven Road Quality Detection for Accessibility and Safety 🚧
+## RoadScan: AI-Driven Road Quality Detection for Accessibility and Safety 🚧
 
 This project aims to automate the process of road quality assessment using computer vision and machine learning.  Our system analyzes images and videos of roads to identify various defects such as potholes, cracks, and uneven surfaces, providing valuable data for maintenance and planning.
 
